@@ -1,1 +1,3 @@
 # kpopifying_code
+
+This project is...
