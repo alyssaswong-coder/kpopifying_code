@@ -24,6 +24,9 @@ This project consists of a introduction, 2 choruses, first and second verse, and
 ## Features
 
 ## Screenshots
+<img width="448" height="1115" alt="image" src="https://github.com/user-attachments/assets/6bb5a6fe-9836-4c8f-9a2c-f0bb00f3bb15" />
+<img width="2479" height="1382" alt="image" src="https://github.com/user-attachments/assets/bd502503-038f-49b2-b9ae-d7974edae7b5" />
+<img width="2382" height="1410" alt="image" src="https://github.com/user-attachments/assets/289aa974-af19-4dd6-9aa9-c88398666ec3" />
 
 
 ## Setup
