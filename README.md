@@ -22,11 +22,15 @@ This project consists of a introduction, 2 choruses, first and second verse, and
 - TunePad Documentation
 
 ## Features
+Each musical component (instrument) is created in what TunePad defines as a 'cell'. Within these cells you are able to select the instrument, write code to make the instrument play, and individually play that instrument. All these cells when played together creates the song. 
+
+TunePad also has 'code cells' which allows you to write large blocks of code to then later import into your instrument cells.
 
 ## Screenshots
 <img width="448" height="1115" alt="image" src="https://github.com/user-attachments/assets/6bb5a6fe-9836-4c8f-9a2c-f0bb00f3bb15" />
 <img width="2479" height="1382" alt="image" src="https://github.com/user-attachments/assets/bd502503-038f-49b2-b9ae-d7974edae7b5" />
-<img width="2382" height="1410" alt="image" src="https://github.com/user-attachments/assets/289aa974-af19-4dd6-9aa9-c88398666ec3" />
+<img width="1537" height="1249" alt="image" src="https://github.com/user-attachments/assets/5b5c4d2f-6c5a-4fa2-852e-74571124599e" />
+
 
 
 ## Setup
