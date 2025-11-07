@@ -36,7 +36,7 @@ TunePad allows for custom audio recordings to be uploaded into your project libr
 
 
 ## Setup
-1. Locate and open the file named 'tunepad_project_113146 (2).json'.
+1. Locate and open the file named 'tunepad_project_113146 (3).json'.
 2. Download the file.
 3. Sign into TunePad or create an account.
 4. Navigate to the MyTunes page.
