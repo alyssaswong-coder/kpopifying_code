@@ -49,6 +49,15 @@ To fully experience the project, it is recommended you listen with headphones.
 
 Enjoy! 
 
+## Troubleshooting
+You may need to manually import the custom sound in order to hear that first 'meow' in the introduction of the song. 
+1. Locate and open the file named 'meow'.
+2. Download the file.
+3. Select the imported project in TunePad.
+4. Navigate to the left menu and select recorder.
+5. Click the upload button and upload the downloaded meow.mp3.
+6. Edit the code in the 'main inst melody' cell so the name of the imported sound corresponds with the manually imported sound.
+
 ## Project Status
 This project has been completed. No further edits will be made. 
 
